@@ -1,0 +1,10 @@
+5,1,Savings,441.0
+6,1,Current,600.0
+7,3,Savings,100.0
+8,4,Current,500.0
+9,4,Savings,100.0
+10,5,Savings,100.0
+11,5,Current,200.0
+12,5,Current,400.0
+13,6,Savings,225.0
+14,6,Current,500.0
